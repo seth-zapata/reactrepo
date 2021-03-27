@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/seth-zapata/reactrepo.git/static/css/main.93debc7a.chunk.css",
+    "main.js": "/seth-zapata/reactrepo.git/static/js/main.be912738.chunk.js",
+    "main.js.map": "/seth-zapata/reactrepo.git/static/js/main.be912738.chunk.js.map",
+    "runtime-main.js": "/seth-zapata/reactrepo.git/static/js/runtime-main.14aa9e7e.js",
+    "runtime-main.js.map": "/seth-zapata/reactrepo.git/static/js/runtime-main.14aa9e7e.js.map",
+    "static/js/2.5c455af7.chunk.js": "/seth-zapata/reactrepo.git/static/js/2.5c455af7.chunk.js",
+    "static/js/2.5c455af7.chunk.js.map": "/seth-zapata/reactrepo.git/static/js/2.5c455af7.chunk.js.map",
+    "static/js/3.bce2b976.chunk.js": "/seth-zapata/reactrepo.git/static/js/3.bce2b976.chunk.js",
+    "static/js/3.bce2b976.chunk.js.map": "/seth-zapata/reactrepo.git/static/js/3.bce2b976.chunk.js.map",
+    "index.html": "/seth-zapata/reactrepo.git/index.html",
+    "static/css/main.93debc7a.chunk.css.map": "/seth-zapata/reactrepo.git/static/css/main.93debc7a.chunk.css.map",
+    "static/js/2.5c455af7.chunk.js.LICENSE.txt": "/seth-zapata/reactrepo.git/static/js/2.5c455af7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/seth-zapata/reactrepo.git/static/media/logo.6ce24c58.svg",
+    "static/media/rickastley.9bab6275.png": "/seth-zapata/reactrepo.git/static/media/rickastley.9bab6275.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14aa9e7e.js",
+    "static/js/2.5c455af7.chunk.js",
+    "static/css/main.93debc7a.chunk.css",
+    "static/js/main.be912738.chunk.js"
+  ]
+}
